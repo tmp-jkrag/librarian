@@ -48,7 +48,7 @@ Mads N.<br/>
 Martin<br/>
 Sofus<br/>
 Thierry
-</div><!-- .element: class="names"  -->
+</div><!-- .element: class="names left"  -->
 
 <div>
   <div>
@@ -57,7 +57,7 @@ Thierry
   Gert<br/>
   Rasmus<br/>
   Ole
-  </div><!-- .element: class="fragment names" -->
+  </div><!-- .element: class="fragment names left"  -->
 
   <div>
   ### Danfoss
@@ -65,7 +65,7 @@ Thierry
   Knud<br/>
   Lecitia<br/>
   Marcus
-  </div><!-- .element: class="fragment names" -->
+  </div><!-- .element: class="fragment names left"  -->
 
   <div>
   ### MAN D & T
@@ -73,7 +73,7 @@ Thierry
   Niels Christian<br/>
   Janne<br/>
   &nbsp;
-  </div><!-- .element: class="fragment names"-->
+  </div><!-- .element: class="fragment names left"  -->
 
   <div>
   ### Kamstrup
@@ -81,7 +81,7 @@ Thierry
   Michael<br/>
   ???<br/>
   &nbsp;
-  </div><!-- .element: class="fragment names" -->
+  </div><!-- .element: class="fragment names left"  -->
 
   <div>
   <div>
@@ -90,28 +90,28 @@ Thierry
   Søren<br/>
   &nbsp;<br/>
   &nbsp;
-  </div><!-- .element: class="fragment names" -->
+  </div><!-- .element: class="fragment names left"  -->
 
   <div>
   ### BK Ultrasound
   Niklas<br/>
   Tommy<br/>
   &nbsp;
-  </div><!-- .element: class="fragment names" -->
+  </div><!-- .element: class="fragment names left"  -->
 
   <div>
   ### Napatech
   Dennis<br/>
   Rasmus<br/>
   &nbsp;
-  </div><!-- .element: class="fragment names" -->
+  </div><!-- .element: class="fragment names left"  -->
 
   <div>
   ### Volvo
   Anders<br/>
   &nbsp;<br/>
   &nbsp;
-  </div><!-- .element: class="fragment names" -->
+  </div><!-- .element: class="fragment names left"  -->
 </div><!-- .element: style="width:100%" -->
 
 Note:
