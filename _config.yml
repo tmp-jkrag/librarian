@@ -1,0 +1,7 @@
+name: Continuous Delivery Alliance
+highlighter: rouge
+exclude: [README.md]
+timezone: Europe/Copenhagen
+url: code.praqma.com/alliance
+markdown: kramdown
+permalink: /:categories/:title/
