@@ -181,6 +181,10 @@ Volvo<br/>
 
 ## Brainstorm Ideas
 
+>>>>NEWSLIDE
+
+## Versioned Binary Artifacts
+
 >>>>NEWSECTION
 
 ## Grundfos
