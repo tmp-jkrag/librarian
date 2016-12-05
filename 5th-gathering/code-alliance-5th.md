@@ -18,6 +18,8 @@ The alliance formerly known as JOSRA, discards the membership fee and opens up f
 
 ### 5th gathering
 
+[code.praqma.com/alliance/5th-gathering](http://code.praqma.com/alliance/5th-gathering)
+
 >>>>NEWSLIDE
 
 ### The Continuous Delivery pipeline
@@ -338,3 +340,11 @@ The Phlow<br/><!-- .element class="fragment" -->
 >>>>NEWSECTION
 
 ## Wrap up
+
+>>>>NEWSLIDE
+
+[Grillen Klosterport](http://www.grillenburgerbar.dk/#)<!-- .element target="_blank" -->
+
+19:00
+
+Klosterport 2, 8000 Aarhus C
