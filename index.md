@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Continuous Delivery Alliance
+title: Librarian
 
 ---
 
 Presentations:
 
-* [5th Gathering](5th-gathering/)
+* [Librarian as Coder](librarian-as-coder/)

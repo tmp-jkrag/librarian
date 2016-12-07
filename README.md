@@ -1,4 +1,4 @@
-# Alliance
-Code Alliance reveals
+# Librarian
+Librarian reveals
 
-Browse at [code.praqma.com/alliance](http://code.praqma.com/alliance)
+Browse at [code.praqma.com/alliance](http://code.praqma.com/librarian)
