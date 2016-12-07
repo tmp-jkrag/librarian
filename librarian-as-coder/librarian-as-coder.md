@@ -120,16 +120,27 @@ Done <!-- .element: class="fragment left grow" style="width:33%;" -->
 
 >>>>NEWSECTION
 
+## Create a new repo to play with!
+
+1. On GitHub fork [`praqma/librarian`](https://github.com/Praqma/librarian)<!-- .element: target="_blank" --> to your own user
+2. In you own fork got to settings and enable GitHub Pages on the `master` branch
+3. Browse to http://user.github.io/librarian-as-coder
+4. Now go and hack the<br/> `/librarian-as-coder/librarian-as-coder.md` file in your own repo
+5. Each commit updates the live web site
+
+
+>>>>NEWSLIDE
+
+
 - Create a clone (of a repo I will be using for reveals later)
 - Initialize it with the Phlow labels
 - Start planning an example task ("Teach Librarians Code”)
 - Explain the labels and the milestones
-- Document som of the work in a mark down
-
-
+- Document some of the work in a mark down
 - Show the markdown in the GitHub repo
-- Turn it into a reveal
+- Explain this reveal
 - Make the reveal accessible online
+
 >>>>NEWSECTION
 
 
