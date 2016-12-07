@@ -129,20 +129,16 @@ Done <!-- .element: class="fragment left grow" style="width:33%;" -->
 5. Each commit updates the live website!
 
 
->>>>NEWSLIDE
-
-
-- Create a clone (of a repo I will be using for reveals later)
-- Initialize it with the Phlow labels
-- Start planning an example task ("Teach Librarians Code”)
-- Explain the labels and the milestones
-- Document some of the work in a mark down
-- Show the markdown in the GitHub repo
-- Explain this reveal
-- Make the reveal accessible online
-
 >>>>NEWSECTION
 
+## Some Reveal tricks
+
+[Documentation](https://github.com/hakimel/reveal.js)<!-- .element: target="_blank" -->
+
+[Sample](http://lab.hakim.se/reveal-js/)<!-- .element: target="_blank" -->
+
+
+>>>>NEWSLIDE
 
 ## [Fragments*](http://lab.hakim.se/reveal-js/#/fragments)<!-- .element: target="_blank" -->
 
