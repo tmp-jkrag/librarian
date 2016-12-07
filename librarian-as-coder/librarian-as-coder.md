@@ -28,7 +28,7 @@
 
 Collaboration, sharing notes, slides, knowledge, <br/>documentation and planning projects?
 
-**...if so, then let’s turn what ever you do into code!**<!-- .element class="fragment" -->
+**...if so, then let’s turn whatever you do into code!**<!-- .element class="fragment" -->
 
 >>>>NEWSECTION
 
@@ -122,11 +122,11 @@ Done <!-- .element: class="fragment left grow" style="width:33%;" -->
 
 ## Create a new repo to play with!
 
-1. On GitHub fork [`praqma/librarian`](https://github.com/Praqma/librarian)<!-- .element: target="_blank" --> to your own user
-2. In you own fork got to settings and enable GitHub Pages on the `master` branch
-3. Browse to http://user.github.io/librarian-as-coder
-4. Now go and hack the<br/> `/librarian-as-coder/librarian-as-coder.md` file in your own repo
-5. Each commit updates the live web site
+1. On GitHub, fork [`praqma/librarian`](https://github.com/Praqma/librarian)<!-- .element: target="_blank" --> to your own user
+2. In your own fork, go to `settings` and enable GitHub Pages, pointing to the `master` branch
+3. Browse to http://your-user-name.github.io/librarian-as-coder
+4. Now go and tinker with the<br/> `/librarian-as-coder/librarian-as-coder.md` file in your repository
+5. Each commit updates the live website!
 
 
 >>>>NEWSLIDE
