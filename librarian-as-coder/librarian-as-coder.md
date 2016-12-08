@@ -10,9 +10,9 @@
 
 -->
 
-## _"Software is going to <br/>rule libraries in the future"_ <!-- .element target="_blank" -->
+# Hi DST4L
 
-...even Librarians need to have some insight into code <!-- .element class="fragment" -->
+This is a new presentation
 
 >>>>NEWSLIDE
 
