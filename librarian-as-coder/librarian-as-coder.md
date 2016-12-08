@@ -10,7 +10,7 @@
 
 -->
 
-## _"Software is going to <br/>eat the world"_ [*](http://www.wsj.com/articles/SB10001424053111903480904576512250915629460)<!-- .element target="_blank" -->
+## _"Software is going to <br/>rule libraries in the future"_ <!-- .element target="_blank" -->
 
 ...even Librarians need to have some insight into code <!-- .element class="fragment" -->
 
